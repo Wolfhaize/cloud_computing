@@ -3,15 +3,16 @@
 This lab is intended to get you set up with the project's infrastructure. Please go through all the steps, make sure that each one works, that you have access to everything described here.
 
 ## Groups
+
 The groups (4-5 members each) are now ready, and available on [Group Spreadsheet](https://docs.google.com/spreadsheets/d/13t3jHczDKj8iqPPlSoGburstmO8k4A8WeUYHTwfIiP8/edit?usp=share_link). Please take note of the group you are in, and the members of your group. Remember, this is what you provided and shall be working with for the rest of the semester. If you have any questions about your group membership, please contact me as soon as possible.
 
 I have also created group emails for each group. The group emails take the following format: `
 Group ID (name), csc26-<group_id>@cit.ac.ug`. For example, if you are in group DAA, your group email is `
 csc26-daa@cit.ac.ug `. In order to test this, let a member in the group send an email to the group email address and see if all members receive it. If you have any issues with the group email, please contact me. Also note that the spreadsheet above that is populated with your group and email information was used to create the group emails.
 
-For better collaboration in the team, I recommend you create your own private repository on GitHub and add all your team members as collaborators. You can then clone the repository to your local machine and push all important data there. This is also a good place to keep your notes and write up for the project. To access GitLab (https://gitlab.cranecloud.io/), you can use your class username and password with the LDAP option selected.
+For better collaboration in the team, I recommend you create your own private repository on GitHub and add all your team members as collaborators. You can then clone the repository to your local machine and push all important data there. This is also a good place to keep your notes and write up for the project. To access GitLab (<https://gitlab.cranecloud.io/>), you can use your class username and password with the LDAP option selected.
 
-## Create a CloudLab Account ([Link](https://www.cloudlab.us/signup.php)) and join the Crane Cloud project 
+## Create a CloudLab Account ([Link](https://www.cloudlab.us/signup.php)) and join the Crane Cloud project. 
 
 The majority of the project runs on CloudLab, for which you need an account. To create an account, please use your Group Email and use the Group ID (such as csc26-daa, csc26-dab, etc.) as the username. Upload your SSH public key file as you use SSH to  access the nodes in CloudLab (For now, just have one key for a member of your group). Click on `Submit Request`. I will approve your request within 48 hours. 
 
@@ -66,7 +67,7 @@ It may take a few mintues for the experiment to start. Once the experiment is cr
 Note: Each lab will create none or more client machines (named `client[0-9]`) and one or more server machines (named
 `server[0-9]`). You will deploy the applications on server machines and run load generators on the client machines in later labs. The exact number of client and server machines will depend on the lab you are working on. You can refer to the profile description for more details.
 
-## Log into Experiment Machines
+## Log into Experiment Machines.
 
 Click `List View`, and you will find SSH commands to access each node. You can start logging in once all machines in the experiment are `ready` and their `Startup` column says `Finished`. On the same tab, you can also reboot/reload your nodes if something goes wrong. You can also `Terminate` the entire experiment and start over from scratch.
 
