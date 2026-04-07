@@ -1,4 +1,15 @@
 
+## Group(DAZ) Members
+
+| Name                        | Registration Number |
+|-----------------------------|---------------------|
+| Mwizerwa Timothy            | 24/U/24330/PS       |
+| Kinda Kelsey Naluwafu       | 24/U/05862/PS       |
+| Kato Adrian Mugerwa         | 24/U/25909/PS       |
+| Naluyima Pauline Oliver     | 24/U/08847/PS       |
+| Aroba Joseph                | 24/U/03646/EVE      |
+
+
 <img width="1280" height="958" alt="1" src="https://github.com/user-attachments/assets/a873e4b9-2ea1-4084-9e25-7164608706c1" />
 <img width="1362" height="768" alt="2" src="https://github.com/user-attachments/assets/6b3f621d-6502-4edd-a978-ddbfe7f7f8eb" />
 <img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/c6dabad5-8e5f-4405-8cbd-787ecbb32724" />
