@@ -68,7 +68,7 @@ It may take a few mintues for the experiment to start. Once the experiment is cr
 Note: Each lab will create none or more client machines (named `client[0-9]`) and one or more server machines (named
 `server[0-9]`). You will deploy the applications on server machines and run load generators on the client machines in later labs. The exact number of client and server machines will depend on the lab you are working on. You can refer to the profile description for more details.
 
-## Log into Experiment Machines
+## Log into Experiment Machines.
 
 Click `List View`, and you will find SSH commands to access each node. You can start logging in once all machines in the experiment are `ready` and their `Startup` column says `Finished`. On the same tab, you can also reboot/reload your nodes if something goes wrong. You can also `Terminate` the entire experiment and start over from scratch.
 
